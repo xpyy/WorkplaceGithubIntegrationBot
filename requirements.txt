@@ -1,0 +1,5 @@
+fastapi==0.67
+uvicorn==0.14
+aiohttp==3.7.4.post0
+requests==2.26.0
+lxml==4.6.3
